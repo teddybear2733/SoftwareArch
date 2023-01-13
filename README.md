@@ -1,4 +1,4 @@
 ### Welcome to our Software Arch Git Repo
-Members:
+Group 4 Members:
 Armen Krikorian
 Tanner Lowrie 
